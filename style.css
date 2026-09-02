@@ -1,11 +1,24 @@
-body{
-    background:black;
+title{
+    color: antiquewhite;
+    font-size: 100px;
+    text-align: center;
+    font-family: fantasy;
+}
+header,h1{
+    color: antiquewhite;
+    font-size: 100px;
+    text-align: center;
+    font-family: fantasy;
+    font-family: fantasy;
 
 }
+
+body{background-image:url(bockground.jpg);}
 img {
-    width:50wv;
+    width:500w;
+    height:400;
 }
-p{font-size: 60px;
+p{font-size: 100px;
 color: antiquewhite;
-border:10px black dotted;
-}
+text-align: center; ;
+strikethrough: line-through;}
